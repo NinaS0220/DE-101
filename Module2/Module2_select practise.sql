@@ -96,3 +96,9 @@ where r.order_id is null
 group by p.person 
 order by total_sales desc;
 
+
+select *
+from public.people
+
+select *
+from orders o 
