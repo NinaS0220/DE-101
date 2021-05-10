@@ -25,3 +25,9 @@ Sales by Product Category over time (Продажи по категориям)
 Sales and Profit by Customer
 Customer Ranking
 Sales per region
+
+## Нарисовать модель данных в SQLdbm
+
+Нарисованы Концептуальная, Логическая и Физическая в SqlDBM.
+Создан DDL запрос через SqlDBM.
+Заполены таблицы Dimensions и Sales fact через INSERT INTO. Скрипт приложен (DDL_Dimension.sql)
