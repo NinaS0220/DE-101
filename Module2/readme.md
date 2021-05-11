@@ -31,3 +31,7 @@ Sales per region
 Нарисованы Концептуальная, Логическая и Физическая в SqlDBM.
 Создан DDL запрос через SqlDBM.
 Заполены таблицы Dimensions и Sales fact через INSERT INTO. Скрипт приложен (DDL_Dimension.sql)
+
+## Нарисовать графики
+
+Было создано два дашборда в Google Data Studio. Так же были изучены Klipfolio и AWS QuickSight
